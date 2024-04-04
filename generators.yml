@@ -1,0 +1,128 @@
+KPLXYS:
+  category: blx_fdj_category
+  generator-name: '&d&l开普勒星云树'
+  generator-lore:
+  - '&7无垠宇宙中的烟火'
+  block-type: SKULLf12a3efc96bb7a0b291f373719ad2e56ead4e895ef9cf6da6d7aca9eefad73cd
+  progress-bar-item: ENCHANTED_GOLDEN_APPLE
+  stats:
+    energy-production: 4888
+    energy-buffer: 56666
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ROCKET_ENGINE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ION_DISPERSER_2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ROCKET_ENGINE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 4000
+      input:
+        type: SLIMEFUN
+        id: BL_SAND
+        amount: 1
+      output:
+        type: SLIMEFUN
+        id: XYG
+        amount: 1
+CYNH:
+  category: blx_fdj_category
+  generator-name: '&9&l次元内核配方'
+  generator-lore:
+  - '&7第一次接近宇宙核心'
+  block-type: SKULL200c16738c372484628ca15cf7b0731b810bd3142e07c1053b5e3da6b6e523ca
+  progress-bar-item: REPEATING_COMMAND_BLOCK
+  stats:
+    energy-production: 18888
+    energy-buffer: 488888
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CLRL
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: XGLC
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CLRL
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ADVANCED_PROCESSING_UNIT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ADVANCED_PROCESSING_UNIT
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ADVANCED_PROCESSING_UNIT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: CLRL
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: XGLC
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: CLRL
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 122800
+      input:
+        type: SLIMEFUN
+        id: CLRL
+        amount: 1
+      output:
+        type: SLIMEFUN
+        id: BOLANXING
+        amount: 1
+    '2':
+      time-in-seconds: 182800
+      input:
+        type: SLIMEFUN
+        id: JQRJY
+        amount: 64
+      output:
+        type: SLIMEFUN
+        id: BOLANJUNTUAN
+        amount: 1

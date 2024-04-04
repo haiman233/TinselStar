@@ -1,0 +1,21 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Categories
+blx_category:
+  parent: "this"
+  category-name: "&a&l箔澜星"
+  category-item: SKULLffd21f16347a401ca5e97f47782f4739bf5480a1c29e19743945b4dc529f5859
+blx_item_category:
+  parent: "blx_category"
+  category-name: "&d&l企划材料"
+  category-item: SKULL438cf3f8e54afc3b3f91d20a49f324dca1486007fe545399055524c17941f4dc
+blx_jq_category:
+  parent: "blx_category"
+  category-name: "&6&l“崭新出厂”"
+  category-item: SKULL5c682125c8f89bdf4b756d657793db9b2e16c9e25ef9a0f087e3ef4f0933ab59
+blx_fdj_category:
+  parent: "blx_category"
+  category-name: "&4&l赋能出发"
+  category-item: SKULL818f83eb64f438e3f6ae3a5c2dea8ed10303bad85ac34a798659a275aa096506
+blx_pf_category:
+  parent: "blx_category"
+  category-name: "&8&l配方"
+  category-item: GLOBE_BANNER_PATTERN

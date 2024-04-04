@@ -1,0 +1,34 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Mob-Drops
+LANSHA:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&a&l镧纱"
+  item-lore:
+  - "&7富含稀有元素！"
+  item-id: SKULLa14d3c57f80824b3839b8b220f2158bca505d497fd1c9e3f29f422b1e6206a45
+  item-amount: 1
+  mob: PHANTOM
+  chance: 6
+  recipe-display-item: PHANTOM_SPAWN_EGG
+GUANGXIAN:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&e&l光腺"
+  item-lore:
+  - "&7如星星般闪耀"
+  item-id: SKULL5d225635fe66cced5e1f1030a11bfbe1e28a8745f920e7b7076eb669c902283
+  item-amount: 1
+  mob: GLOW_SQUID
+  chance: 4
+  recipe-display-item: GLOW_SQUID_SPAWN_EGG
+YOUSHANG:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b&l游商"
+  item-lore:
+  - "&7行商人的前世"
+  item-id: SKULL5ccf9ea1a6e1b86ad60a804ff800b0dfd76d73e5c91f47f84bb7169306546012
+  item-amount: 1
+  mob: WANDERING_TRADER
+  chance: 3
+  recipe-display-item: GLOW_SQUID_SPAWN_EGG

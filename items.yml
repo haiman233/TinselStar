@@ -1,0 +1,1517 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Items
+CFJ_PEIFANG:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&c&l陨空催肥机配方"
+  item-lore:
+    - "&7太空粒子催化！"
+  item-id: SKULL144660ad45f000fff86a385ce573fe8ae10a46b0e1b0747480952acb9ee79e4e
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+XGLC_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&e&l星轨列车配方"
+  item-lore:
+    - "&7您将到达..."
+  item-id: SKULL6d5b0e3aa61162a3c6538985c5c11ceb96d5605b3ce9234c88f4fbd723475d
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+WZZSJ_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&4&l物质增生机配方"
+  item-lore:
+    - "&7从湮灭中来，从湮灭中去"
+  item-id: SKULL166fa6731ad8fba370be4b49fc5ab8b1756cd527d73335cef116cb4072dfd954
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BLCZY_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&9&l箔澜重组仪配方"
+  item-lore:
+    - "&7微时空重组"
+  item-id: SKULL925aca61e1b8beca9befcadd08262c5821e275be414d94f0b27e8580f20dbf3a
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BLGZY_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&4&l箔澜光子仪配方"
+  item-lore:
+    - "&7目标：“归零计划”"
+  item-id: SKULLacab0965c20f1de03e799813ae9cb5e0942ebf6edfe99a0302547755cba78971
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+KPLXYS_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&d&l开普勒星云树配方"
+  item-lore:
+    - "&7无垠宇宙中的烟火"
+  item-id: SKULLf12a3efc96bb7a0b291f373719ad2e56ead4e895ef9cf6da6d7aca9eefad73cd
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CYNH_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&9&l次元内核配方"
+  item-lore:
+    - "&7第一次接近宇宙核心"
+  item-id: SKULL200c16738c372484628ca15cf7b0731b810bd3142e07c1053b5e3da6b6e523ca
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BLXJ_PEIFANG:
+  category: blx_pf_category
+  item-type: CUSTOM
+  item-name: "&9&l箔澜星舰配方"
+  item-lore:
+    - "&7统一宇宙！"
+  item-id: SKULL9d3f0af3241d61f79ebf8451fbd37bfe49cef3ae9af01bdfb0c02cbacb647cf7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+###
+BLJ:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&a&l箔澜金"
+  item-lore:
+  - "&7金片上折射出诡异的蓝光"
+  item-id: SKULL33816458509af0338565d7fa9585be4f1aa045fbad38e86e4718dd6ff1a87e6e
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+YTSJ:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&4&l陨土石井"
+  item-lore:
+  - "&7类井之石"
+  - "&7却让人看出了希望"
+  item-id: SKULL4231908a3235a61ef3328217e4d9c894c3453d6f00d6f3fa8ff39f249f44700a
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+YTSJC:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&a&l陨土石井丛"
+  item-lore:
+  - "&7城南的花开了..."
+  item-id: SKULL79a241fff37206e0db976c792ac2338b2cc39eabae83c7d4673a1b3dbc3f40eb
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    '1':
+      type: NONE
+      id: NONE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: YTSJ
+      amount: 1
+    '3':
+      type: NONE
+      id: NONE
+      amount: 1
+    '4':
+      type: NONE
+      id: NONE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CFJ_PEIFANG
+      amount: 1
+    '6':
+      type: NONE
+      id: NONE
+      amount: 1
+    '7':
+      type: NONE
+      id: NONE
+      amount: 1
+    '8':
+      type: NONE
+      id: NONE
+      amount: 1
+    '9':
+      type: NONE
+      id: NONE
+      amount: 1
+XJSF:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&9&l星际商贩"
+  item-lore:
+  - "&7你终于找到他了..."
+  item-id: SKULL9f89d84bddd06f7b1fb61432c654be411593abd7d3c9957023f3b01d941a0872
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: YOUSHANG
+      amount: 64
+    '2':
+      type: NONE
+      id: NONE
+      amount: 1
+    '3':
+      type: NONE
+      id: NONE
+      amount: 1
+    '4':
+      type: NONE
+      id: NONE
+      amount: 1
+    '5':
+      type: NONE
+      id: NONE
+      amount: 1
+    '6':
+      type: NONE
+      id: NONE
+      amount: 1
+    '7':
+      type: NONE
+      id: NONE
+      amount: 1
+    '8':
+      type: NONE
+      id: NONE
+      amount: 1
+    '9':
+      type: NONE
+      id: NONE
+      amount: 1
+XINGGUI:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&e&l星轨"
+  item-lore:
+  - "&7一缕神秘光环"
+  item-id: SKULL5a86652f9fab53df3967ef110f57011666cf80d23e0c98d4a9ea6c8701ba50de
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: LANSHA
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: LANSHA
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: LANSHA
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: GUANGXIAN
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: GUANGXIAN
+      amount: 1
+HABOWYJ:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&c&l哈勃望远镜"
+  item-lore:
+  - "&7观测星体"
+  item-id: SKULL1268002cb0b97bee508e87f9954cf1899ab90560bd747c489cb54251ba6c50f3
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '2':
+      type: VANILLA
+      id: TINTED_GLASS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 1
+    '4':
+      type: VANILLA
+      id: TINTED_GLASS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '6':
+      type: VANILLA
+      id: TINTED_GLASS
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: GUANGXIAN
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: LANSHA
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: GUANGXIAN
+      amount: 1
+XGB:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&c&l星轨币"
+  item-lore:
+  - "&7宇宙统一交易货币"
+  item-id: SKULL82806c28457cb3acbf240823bacb24a83d48c0ef92dbaed223cd19e01fd1e0d9
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: XINGGUI
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: YUNTUBEI
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: XINGGUI
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: TINTED_GLASS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: TINTED_GLASS
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SYNTHETIC_EMERALD
+      amount: 1
+BOGUANGTONG:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&6&l箔光桶"
+  item-lore:
+  - "&7一桶装万物"
+  item-id: SKULLfef3490dc625bd4e7b5c24ae3d0a1669b30cd1c0064c47d00800e38a5408ec10
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BLJ
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: YTSJC
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: LASERITE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: LUNAR_GLASS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MOON_CHEESE
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MOON_ROCK
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: NONE
+      id: N/A
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+CIYUANYAN:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b&l次元液"
+  item-lore:
+  - "&7它装着一个维度"
+  item-id: SKULL39d3ec218f43538255de2afe1bb3c280f884bd261a6df00033f8810f22893d80
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: CHAIN_COMMAND_BLOCK
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: YTSJC
+      amount: 1
+    '3':
+      type: VANILLA
+      id: JIGSAW
+      amount: 1
+    '4':
+      type: NONE
+      id: N/A
+      amount: 1
+    '5':
+      type: NONE
+      id: N/A
+      amount: 1
+    '6':
+      type: NONE
+      id: N/A
+      amount: 1
+    '7':
+      type: NONE
+      id: N/A
+      amount: 1
+    '8':
+      type: NONE
+      id: N/A
+      amount: 1
+    '9':
+      type: NONE
+      id: N/A
+      amount: 1
+SHILUN:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&e&l世轮"
+  item-lore:
+  - "&7在维度间穿梭"
+  item-id: SKULL6b60171a946b630f46b7b626f4a780bd1a2de9ae3b2bc8a67b6f5bd970eb7
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CIYUANYAN
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: CIYUANYAN
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CIYUANYAN
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: QUIRPCONDENSATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: QUIRPCONDENSATE
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: QUIRPCONDENSATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: HEAVY_DUTY_SHEET
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: DIAMOND_ANVIL_CELL
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: HEAVY_DUTY_SHEET
+      amount: 1
+SHIGUANGSHALOU:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&6&l时光沙漏"
+  item-lore:
+  - "&7维度中的时间独裁者"
+  item-id: SKULL6fe7d46322477d61d41c18788f5c1afd24ed526eb3ed84127f212e2515b1883
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: VOLCANIC_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: LUNAR_GLASS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: VOLCANIC_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ENDER_BLOCK
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SHILUN
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ENDER_BLOCK
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: VOLCANIC_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: LUNAR_GLASS
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: VOLCANIC_INGOT
+      amount: 1
+SKTSY:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&f&l时空坍缩仪"
+  item-lore:
+  - "&7向二次元进发！"
+  item-id: SKULL2fcad72766f384478cfe639f02226fbe836003b0de9aa650fbb49c705429b2ac
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: ADVANCED_PROCESSING_UNIT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ION_ENGINE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: ADVANCED_PROCESSING_UNIT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: GLOWSTONE_CIRCUIT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: GLOWSTONE_CIRCUIT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: TUNGSTEN_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: LUNAR_GLASS
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: TUNGSTEN_INGOT
+      amount: 1
+ERXIANGBO:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&e&l二向箔"
+  item-lore:
+  - "&7想想太阳系的下场..."
+  item-id: SKULL6a5fd09cec4fe97ccc77621b73d89ad6e45d793117f576557d653845acb4f0ad
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: XGB
+      amount: 64
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XGLC_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+YINHEZHUANMAYI:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b&l银河转码仪"
+  item-lore:
+  - "&7技术的更替！"
+  item-id: SKULLbadac92f96d889e72ed3872462012ab0bcf41fa82745d83d847458b50cb4f989
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: XGB
+      amount: 64
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: XGB
+      amount: 8
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: XGLC_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ERWEIDIQIU:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b&l二维地球"
+  item-lore:
+  - "&7全员二次元...却坍缩的不成样"
+  item-id: GLOBE_BANNER_PATTERN
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ERXIANGBO
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ERXIANGBO
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ERXIANGBO
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SKTSY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: MUNPOWDER
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SKTSY
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BOLANREN:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&c&l箔澜人"
+  item-lore:
+  - "&7这颗神秘星球上的居民"
+  item-id: SKULL5d47df2481cc0c51ced4496fb5fce26fb9169181abb56b73f72000d0bb23b74c
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: COMPRESSOR
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: YOUSHANG
+      amount: 4
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JQRJY:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&c&l机器人晶源"
+  item-lore:
+  - "&7终极劳动力..."
+  item-id: SKULLdeb05dce6e86bfa3d75bfd1e015d34f4a731a9e709fbda611a684cb56d7a4576
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BOLANREN
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: WZZSJ_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SKGPS:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&d&l时空GPS"
+  item-lore:
+  - "&7精准定位星球"
+  item-id: SKULLafccbc9396ddc2a1b07846842c0d6561db13d1cb45d6299c2fd981a231f05744
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BOLANREN
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BOLANREN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BOLANREN
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ERWEIDIQIU
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: WZZSJ_PEIFANG
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ERWEIDIQIU
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SKTSY
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+XYG:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&e&l星云果"
+  item-lore:
+  - "&7星云凝聚成的果实"
+  item-id: ENCHANTED_GOLDEN_APPLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SHIGUANGSHALOU
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: KPLXYS_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CLXYS:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&6&l超镧系元素"
+  item-lore:
+  - "&7突破118号元素！"
+  - "&8第八周期将有50个元素..."
+  item-id: SKULL8c10e9d3643cec61a30077d4181435b6ecfe8a884e4c376493be13af82f3e2b8
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BL_SAND
+      amount: 64
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLGZY_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CLRL:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&6&l超镧燃料"
+  item-lore:
+  - "&7点燃宇宙！"
+  item-id: SKULL818f83eb64f438e3f6ae3a5c2dea8ed10303bad85ac34a798659a275aa096506
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CLXYS
+      amount: 2
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: WZZSJ_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BOLANXING:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&9&l箔澜星"
+  item-lore:
+  - "&7它来了..."
+  item-id: SKULLffd21f16347a401ca5e97f47782f4739bf5480a1c29e19743945b4dc529f5859
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CLRL
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CYNH_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BOLANJUNTUAN:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&4&l箔澜军团"
+  item-lore:
+  - "&7乌压压一片"
+  item-id: SKULL47c1dd4ae9f857aedcccb92914988e489a0f01a23d78e12b00f758da65e55da7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JQRJY
+      amount: 64
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CYNH_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+BOLANCSM:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&9&l箔澜传送门"
+  item-lore:
+  - "&7向着箔澜星出发吧！"
+  - "&7尽管旅途并不如意"
+  - "&7似乎充满着血腥"
+  - "&7但是战争之后终将迎来和平"
+  - "&7你经历了一次次技术革命"
+  - "&7是时候去改造你的母星了！"
+  - "&7快为宇宙人民谋求福音吧！"
+  - "&7当然，记得保护好你自己"
+  - "&7箔澜可不会罩着你一生！"
+  - "&7箔澜星——完，感谢您的游玩"
+  item-id: SKULL2b92abeb44c34b998a018ec5b6022e8fc158ee8b13404c0fe6dd0917fed844eb
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BOLANXING
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLXJ_PEIFANG
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1

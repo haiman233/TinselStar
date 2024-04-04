@@ -1,0 +1,27 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Geo-Resources
+BL_SAND:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b箔澜沙"
+  item-lore:
+    - "&7在深渊中留存有一丝痕迹"
+  item-id: SKULL8988fe7f49072bd9be53d16e589ce72e0dca8c308b3e9dc6f43262a816e60473
+  max-deviation: 1
+  biome:
+    SOUL_SAND_VALLEY: 1
+  environment:
+    NETHER: 1
+YUNTUBEI:
+  category: blx_item_category
+  item-type: CUSTOM
+  item-name: "&b陨土碑"
+  item-lore:
+    - "&7它撕开了一条裂缝..."
+  item-id: STONE_SWORD
+  max-deviation: 0
+  biome:
+    END_BARRENS: 1
+    END_HIGHLANDS: 1
+    END_MIDLANDS: 1
+  environment:
+    THE_END: 1
